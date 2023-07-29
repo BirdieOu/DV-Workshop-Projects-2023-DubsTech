@@ -3,6 +3,8 @@ A data visualization project collection - Data Visualization Certificate Program
 Feb 2023 - Mar 2023
 I attened a series of virtual workshops hosted by UW's DubsTech. Through their interactive program, I have learnt to use two popular Data Visualization tools Power BI and Tableau from scratch.
 
+![image](https://github.com/BirdieOu/DV-Workshop-Projects-2023-DubsTech/blob/08160f50e3ef89c82cef675a66b01f636649ccaf/Project1ProductDashboard.JPG)
+
 Project 1: <a href="https://drive.google.com/file/d/1kIozLjKmmv3Z1yyqmzsKJvLncK51KnI2/view?usp=sharing" target="_blank" rel="noopener noreferrer"> Retail Analytics with Power BI Data Viz Workshop Project </a>
 About the project: A fashion startup needs a business intelligence solution that provides the following insights: 
 What are the sales for each product category?
