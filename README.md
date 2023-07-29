@@ -3,6 +3,7 @@ A data visualization project collection - Data Visualization Certificate Program
 Feb 2023 - Mar 2023
 I attened a series of virtual workshops hosted by UW's DubsTech. Through their interactive program, I have learnt to use two popular Data Visualization tools Power BI and Tableau from scratch.
 
+
 ![image](https://github.com/BirdieOu/DV-Workshop-Projects-2023-DubsTech/blob/08160f50e3ef89c82cef675a66b01f636649ccaf/Project1ProductDashboard.JPG)
 
 Project 1: <a href="https://drive.google.com/file/d/1kIozLjKmmv3Z1yyqmzsKJvLncK51KnI2/view?usp=sharing" target="_blank" rel="noopener noreferrer"> Retail Analytics with Power BI Data Viz Workshop Project </a>
@@ -16,6 +17,9 @@ What is the total quantity sold by state and city?
 What is the total quantity sold by size?
 What is the all time total sales, avg unit price, and units sold of the product?
 
+
+![image](https://github.com/BirdieOu/DV-Workshop-Projects-2023-DubsTech/blob/main/Project2HospitalFinderDashboard.JPG)
+
 Project 2: <a href="https://public.tableau.com/app/profile/winifred.huang/viz/U_SDRGReportForLilyMedicare/HospitalFinderDashboard" target="_blank" rel="noopener noreferrer"> Geo Spatial Analysis in Tableau Workshop Project </a>
 About the project: A startup seeking to build data driven dashboards and reports for those seeking medical treatment and who are facing problems in financing heavy medical bills (especially soon to be retiring elderly people). 
 The Tableau project is providing the following insights: 
@@ -27,6 +31,8 @@ Hospital Finder Dashboard: Using only 2015 data, make a dashboard that allows a 
 And then see: A map of hospitals that serve this DRG
 *A Diagnosis Related Group is a classification system of classifying any inpatient into groups for the purpose of hospital payments. The DRG classification system divides possible diagnoses into more than 20 major body systems and subdivides them into almost 500 groups for the purpose of Medicare reimbursement. 
 
+
+![image](https://github.com/BirdieOu/DV-Workshop-Projects-2023-DubsTech/blob/main/Project3Covid19ActiveCases.JPG)
 
 Project 3: <a href="https://drive.google.com/file/d/136lxHQBrCLBf0PF9mXZJ3qtHPInn1Eeo/view?usp=sharing" target="_blank" rel="noopener noreferrer"> Health Analytics with Power BI Data Viz Workshop Project </a>
 About the project: A podcaster writes a report on the state of COVID-19 across the world every week for the New York Times. To help her write a data driven report this week, she has found a COVID-19 worldwide dataset but it does not quickly give her the insights she wants. She needs build an analytics report for her that provides the following insights: 
